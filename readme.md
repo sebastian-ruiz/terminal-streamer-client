@@ -21,7 +21,7 @@ Now try `ls | tstream`.
 
 ### Screenshots
 
-[terminal-streamer](https://cloud.githubusercontent.com/assets/2012398/21485202/16013a36-cb97-11e6-84d3-b93028333266.png)
+![terminal-streamer](https://cloud.githubusercontent.com/assets/2012398/21485202/16013a36-cb97-11e6-84d3-b93028333266.png)
 
 
 
