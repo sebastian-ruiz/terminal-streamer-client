@@ -1,6 +1,6 @@
 # Terminal Streamer Client
 
-The client is written in python. It requires the (Meteor Terminal Streamer)[https://github.com/vephinx/terminal-streamer].
+The client is written in python. It requires the  [Terminal Streamer](https://github.com/vephinx/terminal-streamer) web application written in Meteor.
 
 ### What is it?
 
@@ -8,7 +8,7 @@ This allows you to pipe anything from your terminal to a web page.
 
 ### Getting Started
 
-1. Install the (Terminal Streamer)[https://github.com/vephinx/terminal-streamer] web application written in Meteor.
+1. Install the [Terminal Streamer](https://github.com/vephinx/terminal-streamer) web application written in Meteor.
 2. Set the admin password in `main.py`
 3. (Optional) move `main.py` to your path, make it executable and rename it. I named it `tstream` and it lives at `/usr/local/bin`.
 4. Done!
