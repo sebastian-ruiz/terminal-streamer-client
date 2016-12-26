@@ -6,6 +6,11 @@ The client is written in python. It requires the  [Terminal Streamer](https://gi
 
 This allows you to pipe anything from your terminal to a web page.
 
+### Prerequisites 
+
+- Requires python 3.
+- Requires the [python-meteor](https://github.com/hharnisc/python-meteor) library.
+
 ### Getting Started
 
 1. Install the [Terminal Streamer](https://github.com/vephinx/terminal-streamer) web application written in Meteor.
